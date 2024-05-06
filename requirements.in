@@ -1,0 +1,5 @@
+pypandoc
+python-frontmatter
+python-slugify
+rich
+typer
